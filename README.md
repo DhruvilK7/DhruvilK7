@@ -32,6 +32,6 @@
 
 
 ## Activity Graph: 
- [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvilK7&theme=transparent)](https://github.com/DhruvilKakadiya7/)
+ [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvilK7&theme=transparent)](https://github.com/DhruvilK7/)
 
  
