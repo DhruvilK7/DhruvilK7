@@ -1,7 +1,8 @@
 name: Metrics
 on:
     schedule:
-        - cron: '30 1 * * *'
+        - cron: '*/5 * * * '
+    workflow_dispatch:
     push:
         branches:
             - metrics-action
@@ -15,7 +16,7 @@ jobs:
                 token: ${{ secrets.ACCESS_TOKEN }}
                 output_action: commit
                 committer_branch: main
-                committer_message: update ${filename}
+                committer_message: update github-metrics.svg
                 output_condition: data-changed
                 plugin_isocalendar: yes
                 plugin_isocalendar_duration: full-year
