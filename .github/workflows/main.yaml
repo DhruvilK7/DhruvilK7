@@ -21,5 +21,4 @@ jobs:
                 plugin_isocalendar: yes
                 plugin_isocalendar_duration: full-year
                 plugin_languages: yes
-                template: repository
                 config_padding: 5%
