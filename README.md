@@ -34,5 +34,4 @@
 ## Activity Graph: 
  [![Activity graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DhruvilK7&theme=transparent)](https://github.com/DhruvilK7/)
 
-<img align="center" width="75%" src="./github-metrics.svg" />
  
