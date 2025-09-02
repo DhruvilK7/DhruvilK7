@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 ---
-- Hi, I'm Dhruvil Kakadiya! I'm part of the incredible team at Zomato, working to make it even better every day.
+- Hi, I'm Dhruvil Kakadiya! I'm part of the incredible search team at Zomato, working to make search even better every day.
 
 ### :hammer_and_wrench: Languages and Tools :
 ---
