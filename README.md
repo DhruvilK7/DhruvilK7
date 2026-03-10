@@ -16,7 +16,7 @@ I developed the **first pure Golang implementation** of the Ribbon filter (a hig
 * Focuses on high throughput and minimal memory overhead for large-scale data systems.
 
 #### [RoaringBitmap / roaring](https://github.com/RoaringBitmap/roaring) | *Contributor*
-Active contributor to the widely-used Roaring Bitmaps implementation in Go. My work focuses on performance enhancements, bug fixes, and core library optimizations.
+My work focuses on performance enhancements, bug fixes, and core library optimizations.
 * **Key PRs:** [#513](https://github.com/RoaringBitmap/roaring/pull/513), [#512](https://github.com/RoaringBitmap/roaring/pull/512), [#509](https://github.com/RoaringBitmap/roaring/pull/509)
 
 ---
