@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Dhruvil 👋</h1>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=SDE+II+%40+Zomato;Go+%7C+Distributed+Systems+%7C+Data+Structures;Currently+deep+in+Valkey%2FRedis+internals" alt="Typing SVG" />
   </a>
-</p>
+</p> -->
 
 I work on Zomato's Infra team — cloud architecture across every service, AWS, and the shared Go libraries (logging, config, gRPC, caching, messaging) that other teams build on without thinking about.
 
